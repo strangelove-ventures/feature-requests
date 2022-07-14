@@ -1,8 +1,8 @@
-name: Strangelove Feature Request
-about: Use this template for inbound feature requests across all Strangelove repos
-description: Strangelove Feature Request
+name: "Strangelove Feature Request"
+about: "Use this template for inbound feature requests across all Strangelove repos"
+description: "Strangelove Feature Request"
 title: "[PRODUCT] [Descriptive title]"
-labels: feature request
+labels: 
 assignees: 
 body:
 - type: textarea
