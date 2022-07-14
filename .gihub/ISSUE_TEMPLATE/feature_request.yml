@@ -1,3 +1,10 @@
+---
+name: Feature Request
+about: Use this template for inbound feature requests across all Strangelove repos
+title: "[PRODUCT] [Descriptive title]"
+labels: feature request
+assignees: 
+---
 - type: textarea
   attributes:
     label: Operating System
