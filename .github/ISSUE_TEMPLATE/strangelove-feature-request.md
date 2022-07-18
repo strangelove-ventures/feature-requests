@@ -7,6 +7,14 @@ assignees: ''
 
 ---
 
+## Describe the value delivered by your feature request
+
+> E.g. what positive change in the product does this enable?
+
+## Describe alternatives you've considered
+
+> A clear and concise description of any alternative solutions or features you've considered.
+
 ## Your name 
 
 ## Your organization
@@ -16,14 +24,6 @@ assignees: ''
 ## Your role within the organization
 
 ## How to contact you for questions or clarifications
-
-## Describe the value delivered by your feature request
-
-> E.g. what positive change in the product does this enable?
-
-## Describe alternatives you've considered
-
-> A clear and concise description of any alternative solutions or features you've considered.
 
 ## Additional context
 
